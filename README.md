@@ -33,14 +33,13 @@ rm -rf README.md
 git remote remove origin
 git remote add origin https://github.com/Alex1505Gold/timp_lab03.git
 ```
-</br>
-В папке formatter_lib был создан файл CMakeLists.txt и открыт через nano для редактирования
-</br>
 
-`cd formatter_lib</br>
+В папке formatter_lib был создан файл CMakeLists.txt и открыт через nano для редактирования
+```
+cd formatter_lib<
 touch CMakeLists.txt
 nano CMakeLists.txt `
-
+```
 </br>
 В файл было записано следующее</br>
 ![screen01](./screens/hw_01.png)</br>
