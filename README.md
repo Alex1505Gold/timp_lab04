@@ -61,5 +61,5 @@ cmake --build . `
 ```
 git add .
 git commit -m "Complete task"
-git push origin master
+git push origin master`
 ```
