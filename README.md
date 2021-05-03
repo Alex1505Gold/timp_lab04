@@ -48,7 +48,7 @@ nano CMakeLists.txt `
 mkdir _build
 cd _build
 cmake ..
-cmake --build .
+cmake --build . `
 ```
 </br>
 Аналогичные действия были проведены с папкой formatter_ex_lib, однако в файл CMakeLists.txt было записано:</br>
