@@ -38,7 +38,7 @@ git remote add origin https://github.com/Alex1505Gold/timp_lab03.git
 ```
 cd formatter_lib<
 touch CMakeLists.txt
-nano CMakeLists.txt `
+nano CMakeLists.txt 
 ```
 </br>
 В файл было записано следующее</br>
