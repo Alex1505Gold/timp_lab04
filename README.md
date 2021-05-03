@@ -37,7 +37,7 @@ git remote add origin https://github.com/Alex1505Gold/timp_lab03.git
 В папке formatter_lib был создан файл CMakeLists.txt и открыт через nano для редактирования
 </br>
 
-`cd formatter_lib
+`cd formatter_lib</br>
 touch CMakeLists.txt
 nano CMakeLists.txt `
 
