@@ -40,24 +40,24 @@ cd formatter_lib<
 touch CMakeLists.txt
 nano CMakeLists.txt 
 ```
-</br>
+
 В файл было записано следующее</br>
 ![screen01](./screens/hw_01.png)</br>
-Затем была создана папка _ build, в которую был собран проект</br>
+Затем была создана папка _ build, в которую был собран проект
 ```
 mkdir _build
 cd _build
 cmake ..
 cmake --build . `
 ```
-</br>
+
 Аналогичные действия были проведены с папкой formatter_ex_lib, однако в файл CMakeLists.txt было записано:</br>
 ![screen01](./screens/hw_02.png)</br>
 Аналогичные действия были проведены с папкой hello_world_application, однако в файл CMakeLists.txt было записано:</br>
 ![screen01](./screens/hw_03.png)</br>
 Аналогичные действия были проведены с папкой solver_application, однако в файл CMakeLists.txt было записано:</br>
 ![screen01](./screens/hw_04.png)</br>
-После все было залито на гитхаб</br>
+После все было залито на гитхаб
 ```
 git add .
 git commit -m "Complete task"
