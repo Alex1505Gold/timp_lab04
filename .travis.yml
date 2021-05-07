@@ -1,4 +1,4 @@
-languahe: cpp
+language: cpp
 
 script:
 - cmake -Hformatter_lib -Bformatter_lib/_build -DCMAKE_INSTALL_PREFIX=_install
