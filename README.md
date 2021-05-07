@@ -80,3 +80,7 @@ travis show
 ![screen02](./screens/screen02.png)</br>
 
 <h2>Ход выполнения домашней работы:</h2>
+![screen01](./screens/hw_01.png)</br>
+![screen01](./screens/hw_02.png)</br>
+ в файл был записан следующий код
+ ![screen01](./screens/hw_03.png)</br>
