@@ -84,5 +84,5 @@ travis show
 ![screen03](./screens/hw_01.png)
 
 ![screen04](./screens/hw_02.png)
- в файл был записан следующий код</br>
+ </br>в файл был записан следующий код</br>
  ![screen05](./screens/hw_03.png)
