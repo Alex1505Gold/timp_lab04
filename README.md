@@ -78,6 +78,7 @@ travis show
 
 ![screen01](./screens/screen01.png)</br>
 ![screen02](./screens/screen02.png)</br>
+![screen06](./screens/screen03.png)</br>
 
 <h2>Ход выполнения домашней работы:</h2>
 
