@@ -1,4 +1,4 @@
-<h1>Отчет по лобораторной 03</h1>
+<h1>Отчет по лобораторной 04</h1>
 </br>gmail почта - sgolenkov2002@gmail.com </br>
 telegram - @Xacker_ducker
 
@@ -7,8 +7,8 @@ telegram - @Xacker_ducker
 [репозиторий lab04](https://github.com/Alex1505Gold/lab04)</br>
 
 ```shell
-export GITHUB_USERNAME=matveybaykalov
-export GITHUB_TOKEN=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
+export GITHUB_USERNAME=Alex1505Gold 
+export GITHUB_TOKEN=
 
 cd ${GITHUB_USERNAME}/workspace
 pushd .
