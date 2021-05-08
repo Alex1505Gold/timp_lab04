@@ -19,7 +19,7 @@ curl -sSL https://get.rvm.io | bash -s -- --ignore-dotfiles
 Команда `echo "source $HOME/.rvm/scripts/rvm" >> scripts/activate` была заменена на `echo "source /usr/local/rvm/scripts/rvm" » scripts/activate` </br>
 так как rvm был установлен именно так </br>
 ```shell
-echo "source $HOME/.rvm/scripts/rvm" >> scripts/activate
+echo "source /usr/local/rvm/scripts/rvm" » scripts/activate
 . scripts/activate
 rvm autolibs disable
 rvm install ruby-2.4.2
